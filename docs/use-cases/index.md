@@ -2,7 +2,6 @@
 title: Tổng quan use case
 description: Danh mục và quy ước đặc tả use case của AI House Design Workspace.
 sidebar_position: 1
-slug: /use-cases
 ---
 
 # Đặc tả use case — AI House Design Workspace

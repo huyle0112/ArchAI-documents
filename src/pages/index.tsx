@@ -43,7 +43,7 @@ export default function Home(): ReactNode {
               <Heading as="h1">Từ mặt bằng 2D<br />đến <em>không gian 3D.</em></Heading>
               <p>Nơi tập hợp bối cảnh, persona, quy trình và yêu cầu nghiệp vụ cho hệ thống tái tạo mô hình nhà ở có cấu trúc từ bản vẽ.</p>
               <div className={styles.actions}>
-                <Link className={styles.primaryAction} to="/business-analysis">Khám phá tài liệu <span>→</span></Link>
+                <Link className={styles.primaryAction} to="/docs/business-analysis">Khám phá tài liệu <span>→</span></Link>
                 <Link className={styles.secondaryAction} to="/docs/business-analysis/personas">Xem persona</Link>
               </div>
               <div className={styles.meta}>
@@ -72,7 +72,7 @@ export default function Home(): ReactNode {
           <div className="container">
             <div className={styles.sectionHeading}>
               <div><span className={styles.kicker}>BẮT ĐẦU TỪ ĐÂY</span><Heading as="h2">Đi thẳng đến phần bạn cần.</Heading></div>
-              <Link className={styles.allDocs} to="/business-analysis">Xem toàn bộ tài liệu →</Link>
+              <Link className={styles.allDocs} to="/docs/business-analysis">Xem toàn bộ tài liệu →</Link>
             </div>
             <div className={styles.cardGrid}>
               {documentGroups.map((group) => (

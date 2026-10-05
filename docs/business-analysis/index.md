@@ -2,7 +2,6 @@
 title: Tổng quan dự án
 description: Tổng quan bộ tài liệu phân tích nghiệp vụ cho AI House Design Workspace.
 sidebar_position: 1
-slug: /business-analysis
 ---
 
 # AI House Design Workspace

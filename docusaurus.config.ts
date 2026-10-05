@@ -109,11 +109,11 @@ const config: Config = {
           items: [
             {
               label: 'Phân tích nghiệp vụ',
-              to: '/business-analysis',
+              to: '/docs/business-analysis',
             },
             {
               label: 'Đặc tả use case',
-              to: '/use-cases',
+              to: '/docs/use-cases',
             },
           ],
         },

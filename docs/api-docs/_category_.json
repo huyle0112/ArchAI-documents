@@ -1,0 +1,8 @@
+{
+  "label": "API docs",
+  "position": 3,
+  "link": {
+    "type": "doc",
+    "id": "api-docs/index"
+  }
+}
